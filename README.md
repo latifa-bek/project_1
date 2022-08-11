@@ -7,7 +7,7 @@
 - Seaborn
 - Matplotlib
 - missingno
-- plotly
+- plotly (it shold install by usung pip)
 
 No additional installations beyond the Anaconda distribution of Python and Jupyter notebooks
 
