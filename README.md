@@ -30,6 +30,8 @@ Jupyter Notebooks:Seattle Airbnb Analysis .ipynb is analysis of Seattle airbnb
 
 
 ## Summary result
+
+
 Q1 What are the different prices for the various neighborhoods of Seattle? 
 
 answer :there are neighborhoods most expensive more then other like Magnolia is very expensive then other neighborhoods,
@@ -44,6 +46,8 @@ Q3 What other factors affet flat prices ?
 answer : there are strong strong relationship with number of beds bedrooms, bathrooms and price. 
 so The most important factor affecting the price is the bed
 
-## Licensing
+
+## Licensing ,Acknowledgement
+
 
 Acknowledgement should go to [Kaggle](https://www.kaggle.com/datasets/airbnb/seattle) and Udacity for in-depth tutorials to make learning fun
